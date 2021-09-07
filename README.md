@@ -1,6 +1,6 @@
 # project2BankEndCode
 
-Local Store Ecommerce Application
+ Ecommerce Application For Local Store
 
 Project Description
 We will implement the system for local stores and customers to increase the sales of the local retailers, which is hits by e-commerce sites, and give fast delivery, best quality 
@@ -50,3 +50,5 @@ git clone:https://github.com/MounikaAre585/project2BankEndCode.git
 Once cloned, copy the .war file located within the /target directory and paste it into your tomcat webapps folder.
 
 •	Used AWS cloud service as S3 bucket.
+Contributors:
+Are Mounika
